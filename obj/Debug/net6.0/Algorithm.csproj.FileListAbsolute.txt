@@ -1,0 +1,15 @@
+/Users/ugurcanyagmur/Projects/Algorithm/bin/Debug/net6.0/Algorithm
+/Users/ugurcanyagmur/Projects/Algorithm/bin/Debug/net6.0/Algorithm.deps.json
+/Users/ugurcanyagmur/Projects/Algorithm/bin/Debug/net6.0/Algorithm.runtimeconfig.json
+/Users/ugurcanyagmur/Projects/Algorithm/bin/Debug/net6.0/Algorithm.dll
+/Users/ugurcanyagmur/Projects/Algorithm/bin/Debug/net6.0/Algorithm.pdb
+/Users/ugurcanyagmur/Projects/Algorithm/obj/Debug/net6.0/Algorithm.csproj.AssemblyReference.cache
+/Users/ugurcanyagmur/Projects/Algorithm/obj/Debug/net6.0/Algorithm.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ugurcanyagmur/Projects/Algorithm/obj/Debug/net6.0/Algorithm.AssemblyInfoInputs.cache
+/Users/ugurcanyagmur/Projects/Algorithm/obj/Debug/net6.0/Algorithm.AssemblyInfo.cs
+/Users/ugurcanyagmur/Projects/Algorithm/obj/Debug/net6.0/Algorithm.csproj.CoreCompileInputs.cache
+/Users/ugurcanyagmur/Projects/Algorithm/obj/Debug/net6.0/Algorithm.dll
+/Users/ugurcanyagmur/Projects/Algorithm/obj/Debug/net6.0/refint/Algorithm.dll
+/Users/ugurcanyagmur/Projects/Algorithm/obj/Debug/net6.0/Algorithm.pdb
+/Users/ugurcanyagmur/Projects/Algorithm/obj/Debug/net6.0/Algorithm.genruntimeconfig.cache
+/Users/ugurcanyagmur/Projects/Algorithm/obj/Debug/net6.0/ref/Algorithm.dll
